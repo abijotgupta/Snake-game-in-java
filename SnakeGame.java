@@ -1,3 +1,9 @@
+/*
+Author: Abijot Gupta <abijotupta1998@gmail.com>
+Location:  SnakeGame.java
+
+*/
+
 package com.abi;
 
 import java.applet.Applet;
